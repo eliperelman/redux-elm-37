@@ -1,0 +1,32 @@
+{
+  "name": "redux-elm-37",
+  "private": true,
+  "version": "1.0.0",
+  "description": "debugging",
+  "config": {
+    "entry": "src/index.js",
+    "html": {
+      "title": "redux-elm-37",
+      "description": "debugging",
+      "author": "Eli Perelman"
+    }
+  },
+  "scripts": {
+    "start": "neo start --port 5000"
+  },
+  "keywords": [],
+  "dependencies": {
+    "expose-loader": "0.7.1",
+    "mozilla-neo": "1.1.0",
+    "ramda": "0.21.0",
+    "react": "15.0.2",
+    "react-addons-test-utils": "15.0.2",
+    "react-dom": "15.0.2",
+    "react-redux": "4.4.5",
+    "react-router": "2.4.0",
+    "react-router-redux": "4.0.4",
+    "redux": "3.5.2",
+    "redux-elm": "2.1.7",
+    "redux-saga": "0.10.5"
+  }
+}
