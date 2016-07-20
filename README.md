@@ -7,6 +7,7 @@ Used for debugging [redux-elm/37](https://github.com/salsita/redux-elm/issues/37
 - Clone
 - `npm install`
 - `npm start`
+- Open browser to `http://localhost:5000`
 
 ## Prerequisites
 
